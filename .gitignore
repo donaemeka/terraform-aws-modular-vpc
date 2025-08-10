@@ -2,7 +2,6 @@
 
 # Local Terraform files
 **/.terraform/*
-**/.terraform.lock.hcl
 
 # Sensitive files
 **/*.tfstate
