@@ -76,5 +76,7 @@ I got tired of manually creating these in the AWS Console.
 I'm seeking junior DevOps/Cloud roles.
 
 ## Contact me: 
+
 Email: donaemeka92@gmail.com
+
 Linkedin: linkedin.com/in/donatus-devops
