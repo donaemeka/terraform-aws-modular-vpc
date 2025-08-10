@@ -1,0 +1,19 @@
+# .gitignore for Terraform
+
+# Local Terraform files
+**/.terraform/*
+**/.terraform.lock.hcl
+
+# Sensitive files
+**/*.tfstate
+**/*.tfstate.*
+**/*.tfvars
+**/*.tfvars.json
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.swp
+
+# AWS credentials
+**/.aws/credentials
